@@ -122,11 +122,11 @@ O projeto utiliza o modelo C4 para documentação arquitetural:
 # 👨‍💻 Equipe
 
 - Clecio Freire [Github](github.com/freirecf)
-- Icaro Rhyckelm [Github](github.com/)
+- Icaro Rhyckelm [Github](github.com/icaroy)
 - João Carlos [Github](github.com/jaocarlosfurta)
 - Kaua Muniz [Github](github.com/kauamuniz1)
-- Kléssio Duarte [Github](github.com/) 
-- Vinicíus Yan [Github](github.com/)
+- Kléssio Duarte [Github](github.com/vinyanw) 
+- Vinicíus Yan [Github](github.com/klessioo)
 
 ---
 
