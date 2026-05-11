@@ -121,7 +121,12 @@ O projeto utiliza o modelo C4 para documentação arquitetural:
 
 # 👨‍💻 Equipe
 
-Projeto desenvolvido para a disciplina de Engenharia de Software II.
+Clecio Freire (github.com/freirecf)
+Icaro Rhyckelm (github.com/)
+João Carlos (github.com/jaocarlosfurta)
+Kaua Muniz (github.com/kauamuniz1)
+Kléssio Duarte (github.com/) 
+Vinicíus Yan (github.com/)
 
 ---
 
